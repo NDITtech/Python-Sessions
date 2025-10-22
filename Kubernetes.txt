@@ -1,0 +1,13 @@
+pods
+Deployments
+Replicates
+configmaps
+secrets
+Ingress Controller
+Services
+Volumes
+Statefulsets
+Resource Quotas
+Namespace
+Limit ranges
+Deployment strategies
