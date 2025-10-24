@@ -18,6 +18,8 @@ print(type(x))  #<class 'list'>
 
 
 
+
+
 numbers = (10, 20, 30, 40)
 print(numbers)
 print(type(numbers))  #<class 'tuple'>
