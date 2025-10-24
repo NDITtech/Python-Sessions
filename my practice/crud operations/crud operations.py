@@ -185,3 +185,5 @@ d.clear()
 print(d)
 
 
+y=98
+print(y)
