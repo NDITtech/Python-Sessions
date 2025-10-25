@@ -35,3 +35,12 @@ print(s.lower())
 print(s.title())
 
 
+
+
+
+ptint("-----")
+
+
+
+
+print("-----------------")
