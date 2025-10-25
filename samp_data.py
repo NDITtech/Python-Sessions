@@ -22,6 +22,9 @@ print(type(z))
 
 
 
+
+
+
 print("---------------------")
 #2. Text type
 #string
@@ -173,4 +176,6 @@ print(type(languages1))
 
 
 
+
+print("--------------------------")
 
