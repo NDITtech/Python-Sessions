@@ -35,3 +35,8 @@ print(s.lower())
 print(s.title())
 
 
+
+
+
+
+print("-----------------")
