@@ -31,6 +31,7 @@ print(s1.show_marks())
 print(s1.show_sal())
 
 print("######-------")
+print("######-------")
 
 s2 = Students("ashok", 8, 10,15, "atp", mobi=None)
 
