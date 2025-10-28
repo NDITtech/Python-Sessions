@@ -64,7 +64,9 @@ def sum_of_list(numbers):
      for n in numbers:
       total += n
      return total
-print(sum_of_list([2,3,6,7]))
+x=sum_of_list([1,1,2,3])
+#print(sum_of_list([2,3,6,7]))
+print(x)
 
 
 
