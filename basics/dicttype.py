@@ -13,3 +13,7 @@ print(dict1[3])
 
 del dict1[2]
 print(dict1)
+
+
+
+print("hELLO ")
