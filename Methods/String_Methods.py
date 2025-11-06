@@ -1,4 +1,4 @@
-#string methods
+#string functions
 #lower
 x = "Hello world"
 print(x.lower())
