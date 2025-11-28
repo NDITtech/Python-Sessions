@@ -1,3 +1,4 @@
+'''
 class Students:     #Class name should start in caps
     marks = 100
     def __init__(self, name, id, sal, age, town, mobi=None):       #init : constructor
@@ -26,14 +27,20 @@ class Students:     #Class name should start in caps
 s1= Students("kala", 1, 10, 5, "atp", ) #s1 is a object
 
 print(s1.show_details())
-
+print(".....1.........")
 print(s1.show_marks())
+print(".....2.........")
 print(s1.show_sal())
 
-print("######-------")
+print(".....3.........")
 print("######-------")
 
 s2 = Students("ashok", 8, 10,15, "atp", mobi=None)
 
 print(s2.show_details())
-print(s2.details())
+print(s2.details())'''
+
+def add1(id,name):
+    x=20
+    return id+name
+print(add1())
